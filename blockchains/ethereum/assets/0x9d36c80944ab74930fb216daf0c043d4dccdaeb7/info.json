@@ -1,0 +1,11 @@
+{
+    "name": "BEP-20 token",
+    "website": "https://deficoins.io",
+    "description": "BEP-20 is a Binance Smart Chain token standard created with the intention of extending ERC-20",
+    "explorer": "https://bscscan.com/token/0x9d36c80944ab74930fb216daf0c043d4dccdaeb7",
+    "type": "BEP20",
+    "symbol": "BUSD",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9d36c80944ab74930fb216daf0c043d4dccdaeb7"
+}
